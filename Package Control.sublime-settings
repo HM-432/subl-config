@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://10.0.34.131:8080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Oceanic Next Color Scheme"
+	]
+}
