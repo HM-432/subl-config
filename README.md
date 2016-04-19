@@ -10,3 +10,4 @@ Sublime text 3 config
 - [MarkdownEditing](https://github.com/ttscoff/MarkdownEditing)
 - [material-theme](https://github.com/equinusocio/material-theme)
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
+- [Handlebars](https://github.com/daaain/Handlebars)
