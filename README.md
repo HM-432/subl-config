@@ -11,3 +11,4 @@ Sublime text 3 config
 - [material-theme](https://github.com/equinusocio/material-theme)
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [Handlebars](https://github.com/daaain/Handlebars)
+- [Less](https://github.com/danro/LESS-sublime)
