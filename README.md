@@ -12,3 +12,4 @@ Sublime text 3 config
 - [AutoFileName](https://github.com/BoundInCode/AutoFileName)
 - [Handlebars](https://github.com/daaain/Handlebars)
 - [Less](https://github.com/danro/LESS-sublime)
+- [NodeJs](https://github.com/tanepiper/SublimeText-Nodejs)
