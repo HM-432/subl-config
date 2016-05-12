@@ -1,6 +1,6 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "http://10.0.34.131:8080",
+
 	"in_process_packages":
 	[
 	],
@@ -10,6 +10,7 @@
 		"Babel",
 		"Babel Snippets",
 		"Handlebars",
+		"Indent XML",
 		"LESS",
 		"Markdown Preview",
 		"MarkdownEditing",
